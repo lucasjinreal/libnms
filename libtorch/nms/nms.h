@@ -1,5 +1,5 @@
 #pragma once
-#include "cpu/nms_cpu.h"
+#include "nms/cpu/nms_cpu.h"
 
 #ifdef WITH_CUDA
 #include "cuda/nms_cuda.h"

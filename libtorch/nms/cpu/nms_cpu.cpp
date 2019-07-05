@@ -1,4 +1,4 @@
-#include "cpu/vision_cpu.h"
+#include "./cpu/nms_cpu.hpp"
 
 template <typename scalar_t>
 at::Tensor nms_cpu_kernel(
