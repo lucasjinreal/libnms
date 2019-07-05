@@ -4,6 +4,7 @@ We always need nms when writting a detector. But nms should be most low latency,
 
 Currently we still have some todos on libnms:
 
+- [x] fast soft-nms on CPU;
 - [ ] to support softnms in GPU;
 - [ ] maybe add python wrapper in the future;
 - [ ] add some using examples in readme.
